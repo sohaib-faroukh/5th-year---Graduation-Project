@@ -1,0 +1,1 @@
+https://livebook.manning.com/book/microservices-in-net-core/about-this-book/
